@@ -7,10 +7,28 @@
 '0x00124b001f2b4d72':
   friendly_name: DiY 8 Relays
 '0x84fd27fffe637726':
-  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 2
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 7
 '0x00124b002442c1c7':
   friendly_name: Flower 2
-'0x00124b002443db4c':
-  friendly_name: Flower 1
 '0x00124b002442a731':
   friendly_name: Flower 3
+'0x00158d0000b5832b':
+  friendly_name: Life Control MCLH-04 Door Sensor
+'0x0c4314fffe60a6d2':
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 3
+'0x0c4314fffe60a33d':
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 4
+'0xb4e3f9fffe206765':
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 5
+'0x0c4314fffe9afb39':
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 6
+'0x0c4314fffe60a36a':
+  friendly_name: GIRIER TuYa JR-ZDS01 SWITCH 2
+'0xcc86ecfffe1afcab':
+  friendly_name: AVATTO TuYa WHD02 SWITCH 8
+'0x00158d0007085ad4':
+  friendly_name: Xiaomi WSDCGQ11LM 1
+'0x00158d00070871b2':
+  friendly_name: Xiaomi WSDCGQ11LM 2
+'0x00124b002443db4c':
+  friendly_name: Flower 1
